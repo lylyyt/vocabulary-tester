@@ -174,8 +174,11 @@ A: 请检查Python是否正确安装，以及是否支持Tkinter（大多数Pyth
 
 - GitHub Issues: [提交问题](https://github.com/yourusername/english-vocabulary-tester/issues)
 
----
+--
+ps：本程序词汇部分参考了https://github.com/KyleBing/english-vocabulary的json文件，请移步支持，感谢。
+--
 
-**作者**: AI Assistant  
+
+**作者**:lylyt  
 **创建日期**: 2025年  
 **版本**: 1.1
