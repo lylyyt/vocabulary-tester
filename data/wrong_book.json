@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "export_time": "2025-12-03 14:42:48",
+        "total_wrong_items": 11,
+        "module": "4",
+        "test_mode": "english"
+    },
+    "wrong_answers": [
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "discriminate",
+                "definition": " 区别， 辨别； 有差别地对待， 歧视"
+            },
+            "question_info": {
+                "question": "discriminate",
+                "your_answer": " 否定， 拒绝相信",
+                "correct_answer": " 区别， 辨别； 有差别地对待， 歧视"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "occupation",
+                "definition": "职业"
+            },
+            "question_info": {
+                "question": "occupation",
+                "your_answer": "（法院授权警方采取行动的）令状；许可证",
+                "correct_answer": "职业"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "caution",
+                "definition": "小心"
+            },
+            "question_info": {
+                "question": "caution",
+                "your_answer": " 最好的， 最著名的， 最重要的",
+                "correct_answer": "小心"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "primitive",
+                "definition": "原始的，简单的"
+            },
+            "question_info": {
+                "question": "primitive",
+                "your_answer": "报道",
+                "correct_answer": "原始的，简单的"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "prospect",
+                "definition": " 前景， 前途， 可能性； 景象， 景色； 可能成为主顾的人， 有希望的候选人"
+            },
+            "question_info": {
+                "question": "prospect",
+                "your_answer": "警惕的",
+                "correct_answer": " 前景， 前途， 可能性； 景象， 景色； 可能成为主顾的人， 有希望的候选人"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "underscore",
+                "definition": "强调"
+            },
+            "question_info": {
+                "question": "underscore",
+                "your_answer": "（旅馆等的）休息室",
+                "correct_answer": "强调"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "carry",
+                "definition": "刊登"
+            },
+            "question_info": {
+                "question": "carry",
+                "your_answer": "（量得的）尺寸，大小",
+                "correct_answer": "刊登"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "slavery",
+                "definition": "奴隶制度"
+            },
+            "question_info": {
+                "question": "slavery",
+                "your_answer": "职业",
+                "correct_answer": "奴隶制度"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "drastic",
+                "definition": " 严厉的， 极端的； 激烈的， 迅猛的"
+            },
+            "question_info": {
+                "question": "drastic",
+                "your_answer": "角状物；喇叭形物",
+                "correct_answer": " 严厉的， 极端的； 激烈的， 迅猛的"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "theme",
+                "definition": " 主题， 题目"
+            },
+            "question_info": {
+                "question": "theme",
+                "your_answer": " 极妙的； 极大的； 令人恐惧的",
+                "correct_answer": " 主题， 题目"
+            }
+        },
+        {
+            "time": "2025-12-03 14:42:48",
+            "word_info": {
+                "word": "deprive",
+                "definition": "剥夺"
+            },
+            "question_info": {
+                "question": "deprive",
+                "your_answer": "保守的",
+                "correct_answer": "剥夺"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+.Python
+env/
+env2/
+env3/
+env4/
+env5/
+venv/
+ENV/
+env.bak/
+env2.bak/
+env3.bak/
+env4.bak/
+env5.bak/
+venv.bak/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+*.pyc
+*.pyo
+*$py.class
+__pycache__/
+
+# Local data files
+错题本_*.txt
+*.log
+*.tmp
+
+# Windows specific
+*.exe
+*.dll
+*.obj
+*.pyd
+*.ilk
+*.pdb
+
+# Mac specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux specific
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*

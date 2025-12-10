@@ -1,0 +1,11 @@
+# Python版本要求
+# python>=3.6
+
+# 项目依赖（当前仅使用Python标准库，无额外依赖）
+# 如需扩展功能，可在此添加依赖项
+# 示例：
+# tkinter  # Python标准库，无需额外安装
+# json      # Python标准库，无需额外安装
+# os        # Python标准库，无需额外安装
+# sys       # Python标准库，无需额外安装
+# datetime  # Python标准库，无需额外安装
